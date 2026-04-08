@@ -1,5 +1,5 @@
 # Image-Classification-with-Neural-Networks
-Explores machine learning and deep learning methodologies for the classification of leaf species using a dataset of 99 classes, 990 images, and 192 extracted features
+Machine learning and deep learning methodologies for the classification of leaf species using a dataset of 99 classes, 990 images, and 192 extracted features
 
 Key Methodologies
 
